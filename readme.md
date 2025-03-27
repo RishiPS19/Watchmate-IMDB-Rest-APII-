@@ -17,7 +17,7 @@ Access, Update & Destroy Individual Element: http://127.0.0.1:8000/watch/stream/
 
 4. Watch List
 
-Create & Access List: http://127.0.0.1:8000/watch/
+Create & Access List: http://127.0.0.1:8000/watch/list/
 Access, Update & Destroy Individual Element: http://127.0.0.1:8000/watch/<int:movie_id>/
 
 5. Reviews
